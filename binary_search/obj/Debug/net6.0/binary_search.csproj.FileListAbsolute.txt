@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\bin\Debug\net6.0\binary_search.exe
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\bin\Debug\net6.0\binary_search.deps.json
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\bin\Debug\net6.0\binary_search.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\bin\Debug\net6.0\binary_search.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\bin\Debug\net6.0\binary_search.pdb
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\binary_search.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\binary_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\binary_search.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\binary_search.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\binary_search.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\binary_search.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\refint\binary_search.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\binary_search.pdb
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\binary_search.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\binary_search\obj\Debug\net6.0\ref\binary_search.dll
