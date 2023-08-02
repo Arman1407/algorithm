@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\bin\Debug\net6.0\sort_inserts.exe
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\bin\Debug\net6.0\sort_inserts.deps.json
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\bin\Debug\net6.0\sort_inserts.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\bin\Debug\net6.0\sort_inserts.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\bin\Debug\net6.0\sort_inserts.pdb
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\sort_inserts.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\sort_inserts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\sort_inserts.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\sort_inserts.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\sort_inserts.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\sort_inserts.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\refint\sort_inserts.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\sort_inserts.pdb
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\sort_inserts.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\sort_inserts\obj\Debug\net6.0\ref\sort_inserts.dll
