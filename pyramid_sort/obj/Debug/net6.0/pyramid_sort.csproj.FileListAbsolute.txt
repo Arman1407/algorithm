@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\bin\Debug\net6.0\pyramid_sort.exe
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\bin\Debug\net6.0\pyramid_sort.deps.json
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\bin\Debug\net6.0\pyramid_sort.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\bin\Debug\net6.0\pyramid_sort.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\bin\Debug\net6.0\pyramid_sort.pdb
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\pyramid_sort.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\pyramid_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\pyramid_sort.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\pyramid_sort.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\pyramid_sort.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\pyramid_sort.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\refint\pyramid_sort.dll
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\pyramid_sort.pdb
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\pyramid_sort.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Общая\personal\algorithms\pyramid_sort\obj\Debug\net6.0\ref\pyramid_sort.dll
